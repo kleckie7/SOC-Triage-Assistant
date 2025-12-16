@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+scikit-learn
+groq
+matplotlib
